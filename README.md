@@ -7,3 +7,7 @@ Click on a title to open a diagram or go to File, Open from, URL and enter an UR
 * <a href="https://www.draw.io/?url=https%3A%2F%2Fjgraph.github.io%2Fdrawio-diagrams%2Fdiagrams%2Fmath.xml" target="_blank">Math:</a> Mathematical typesetting
 * <a href="https://www.draw.io/?url=https%3A%2F%2Fjgraph.github.io%2Fdrawio-diagrams%2Fdiagrams%2Fsvgfile.svg" target="_blank">SVG File:</a> Using .svg extension
 * <a href="https://www.draw.io/?url=https%3A%2F%2Fjgraph.github.io%2Fdrawio-diagrams%2Fdiagrams%2Fsvgimage.xml" target="_blank">SVG Image:</a> Using .svg image
+
+Replace the url parameter with a create parameter as follows to use a diagram as a template:
+
+* <a href="https://www.draw.io/?create=https%3A%2F%2Fjgraph.github.io%2Fdrawio-diagrams%2Fdiagrams%2Fmath.xml" target="_blank">Math:</a> Mathematical typesetting
