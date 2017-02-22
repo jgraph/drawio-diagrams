@@ -1,0 +1,168 @@
+<shape aspect="variable" h="211" w="200" strokewidth="inherit">
+    <connections>
+         <constraint x="0.5" y="0" perimeter="0" name="N"/>
+         <constraint x="0.5" y="1" perimeter="0" name="S"/>
+         <constraint x="0" y="0.5" perimeter="0" name="W"/>
+         <constraint x="1" y="0.5" perimeter="0" name="E"/>
+         <constraint x="0" y="0" perimeter="0" name="NW"/>
+         <constraint x="1" y="0" perimeter="0" name="NE"/>
+         <constraint x="1" y="1" perimeter="0" name="SE"/>
+         <constraint x="0" y="1" perimeter="0" name="SW"/>
+    </connections>
+    <background>
+        <strokecolor color="#000000"/>
+        <fillcolor color="#ffffff"/>
+        <rect h="200" w="200" x="0" y="11"/>
+    </background>
+    <foreground>
+        <fillstroke/>
+        <save/>
+        <save/>
+        <save/>
+        <save/>
+        <save/>
+        <save/>
+        <save/>
+        <dashpattern pattern="2 2"/>
+        <dashed dashed="1"/>
+        <rect h="150" w="150" x="25" y="36"/>
+        <stroke/>
+        <strokecolor color="#ff0000"/>
+        <strokewidth width="4"/>
+        <linejoin join="round"/>
+        <linecap cap="round"/>
+        <dashpattern pattern="5 5"/>
+        <rect h="100" w="100" x="50" y="61"/>
+        <stroke/>
+        <restore/>
+        <rect/>
+        <stroke/>
+        <strokecolor color="#000000"/>
+        <fillcolor color="none"/>
+        <strokewidth width="5"/>
+        <alpha alpha="0.25"/>
+        <path>
+            <move x="0" y="11"/>
+            <line x="200" y="211"/>
+        </path>
+        <stroke/>
+        <restore/>
+        <rect/>
+        <stroke/>
+        <strokecolor color="#000000"/>
+        <fillcolor color="none"/>
+        <dashpattern pattern="2 5"/>
+        <dashed dashed="1"/>
+        <path>
+            <move x="200" y="11"/>
+            <line x="0" y="211"/>
+        </path>
+        <stroke/>
+        <restore/>
+        <rect/>
+        <stroke/>
+        <strokecolor color="#000000"/>
+        <fillcolor color="none"/>
+        <ellipse h="150" w="150" x="25" y="36"/>
+        <stroke/>
+        <fillcolor color="#66ff66"/>
+        <alpha alpha="0.5"/>
+        <ellipse h="100" w="100" x="50" y="61"/>
+        <fillstroke/>
+        <restore/>
+        <rect/>
+        <stroke/>
+        <strokecolor color="#000000"/>
+        <fillcolor color="none"/>
+        <ellipse h="25" w="200" x="0" y="186"/>
+        <stroke/>
+        <ellipse h="200" w="25" x="0" y="11"/>
+        <stroke/>
+        <path>
+            <move x="150" y="55"/>
+            <line x="50" y="55"/>
+            <line x="100" y="11"/>
+            <close/>
+        </path>
+        <stroke/>
+        <path>
+            <move x="180" y="36"/>
+            <line x="180" y="61"/>
+        </path>
+        <stroke/>
+        <strokewidth width="2"/>
+        <linecap cap="round"/>
+        <path>
+            <move x="185" y="36"/>
+            <line x="185" y="111"/>
+        </path>
+        <stroke/>
+        <restore/>
+        <rect/>
+        <stroke/>
+        <strokecolor color="#000000"/>
+        <fillcolor color="none"/>
+        <strokewidth width="3"/>
+        <alpha alpha="0.5"/>
+        <path>
+            <move x="190" y="36"/>
+            <line x="190" y="161"/>
+        </path>
+        <stroke/>
+        <restore/>
+        <rect/>
+        <stroke/>
+        <strokecolor color="#000000"/>
+        <fillcolor color="none"/>
+        <strokewidth width="4"/>
+        <dashpattern pattern="5 5"/>
+        <dashed dashed="1"/>
+        <path>
+            <move x="195" y="36"/>
+            <line x="195" y="186"/>
+        </path>
+        <stroke/>
+        <restore/>
+        <rect/>
+        <stroke/>
+        <strokecolor color="#000000"/>
+        <fillcolor color="none"/>
+        <path>
+            <move x="26" y="22.75"/>
+            <curve x1="26" x2="35.25" x3="41.5" y1="22.75" y2="0" y3="22.25"/>
+            <curve x1="47.75" x2="55.25" x3="56.75" y1="44.5" y2="27.5" y3="20.25"/>
+            <curve x1="58.25" x2="62.75" x3="75.75" y1="13" y2="21.5" y3="21"/>
+            <curve x1="88.75" x2="83.5" x3="69.25" y1="20.5" y2="23.25" y3="30"/>
+        </path>
+        <stroke/>
+        <path>
+            <move x="122.5" y="21.5"/>
+            <curve x1="130.25" x2="138.5" x3="138.25" y1="23.25" y2="10.5" y3="17.5"/>
+            <curve x1="138" x2="156" x3="149.25" y1="24.5" y2="12.5" y3="17"/>
+            <curve x1="142.5" x2="167.75" x3="163.75" y1="21.5" y2="24" y3="18.75"/>
+            <curve x1="159.75" x2="180.75" x3="177" y1="13.5" y2="11.5" y3="14.25"/>
+            <curve x1="173.25" x2="166.5" x3="172.75" y1="17" y2="30.5" y3="26.25"/>
+            <curve x1="179" x2="178.5" x3="172.5" y1="22" y2="29.5" y3="31.25"/>
+            <curve x1="166.5" x2="149.25" x3="151.5" y1="33" y2="35.25" y3="31.5"/>
+        </path>
+        <stroke/>
+        <strokecolor color="#0033cc"/>
+        <fillcolor color="#00ffff"/>
+        <path>
+            <move x="8" y="57"/>
+            <line x="16.25" y="76"/>
+            <line x="9.75" y="87.5"/>
+            <line x="17" y="95.75"/>
+            <line x="20" y="91"/>
+            <line x="20.75" y="101.5"/>
+            <line x="16.75" y="101"/>
+            <line x="15.5" y="109.75"/>
+            <line x="8.5" y="105"/>
+            <line x="6.75" y="111"/>
+            <line x="2.5" y="84"/>
+            <line x="9.25" y="76.75"/>
+            <close/>
+        </path>
+        <fillstroke/>
+    </foreground>
+</shape>
