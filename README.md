@@ -18,4 +18,4 @@ Replace the url parameter with a create parameter as follows to use a diagram as
 
 The diagram can also be used as a template by clicking "From Template URL" in the create dialog and entering an URL of the form https://jgraph.github.io/drawio-diagrams/diagrams/math.xml
 
-To use a diagram from this repository as a template in draw.io, create the URL by replace the %filename% in https://jgraph.github.io/drawio-diagrams/diagrams/%filename%, encode the value as a URL (eg. by using https://jgraph.github.io/drawio-tools/tools/convert.html and clicking URL encode), and add the resulting value after https://www.draw.io/#U
+To use a diagram from this repository as a template in draw.io, create the URL by replace the %filename% in https://jgraph.github.io/drawio-diagrams/diagrams/%filename%, encode the value as a URL (eg. by using https://jgraph.github.io/drawio-tools/tools/convert.html and clicking URL encode) and add the resulting value after https://www.draw.io/#U
