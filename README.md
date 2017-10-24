@@ -20,4 +20,4 @@ The diagram can also be used as a template by clicking "From Template URL" in th
 
 To use a diagram from this repository as a template in draw.io, create the URL by replace the %filename% in https://jgraph.github.io/drawio-diagrams/diagrams/%filename%, encode the value as a URL (eg. by using https://jgraph.github.io/drawio-tools/tools/convert.html and clicking URL encode) and add the resulting value after https://www.draw.io/#U
 
-For example, to use the schema.xml file as a template, the URL is https://www.draw.io/#Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-diagrams%2Fdiagrams%2Fschema.xml
+For example, to use schema.xml as a template, the URL is https://www.draw.io/#Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-diagrams%2Fdiagrams%2Fschema.xml
