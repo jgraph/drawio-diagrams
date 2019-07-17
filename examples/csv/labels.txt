@@ -1,0 +1,31 @@
+## **********************************************************
+## Example description
+## **********************************************************
+## This example shows you how to use and style labels. By default, there is one label type for all cells. You can have a custom number of parameters, but in this example, for label1 we used 3: name, position and email. Here, in the "labels" array below, we defined three separate label types, which we apply to each shape. The label type is defined in the last column of the CSV data.
+## **********************************************************
+## Configuration
+## **********************************************************
+# labels: {"label1" : "%name%<br><i style=\u0022color:gray;\u0022>%position%</i><br><a href=\u0022mailto:%email%\u0022>Email</a>", "label2" : "Type2<br>%name%", "label3" : "Type3"}
+# labelname: labeltype
+# style: whiteSpace=wrap;html=1;rounded=1;fillColor=#ffffff;strokeColor=#000000;
+# namespace: csvimport-
+# connect: {"from": "refs", "to": "id", "style": "curved=1;fontSize=11;"}
+# width: auto
+# height: auto
+# padding: 5
+# ignore: id,refs
+# link: url
+# nodespacing: 60
+# levelspacing: 60
+# edgespacing: 40
+# layout: auto
+## **********************************************************
+## CSV Data
+## **********************************************************
+id,name,position,email,url,refs, labeltype
+1,Evan Miller,CFO,me@example.com,https://www.draw.io,"2,3,4,5,6", label1
+2,Edward Morrison,Brand Manager,me@example.com,https://www.draw.io,"", label1
+3,Ron Donovan,System Admin,me@example.com,https://www.draw.io,"", label1
+4,Tessa Valet,HR Director,me@example.com,https://www.draw.io,"", label1
+5,Hanna Emerson,PR,me@example.com,https://www.draw.io,"", label2
+6,Richard Newman,PR,me@example.com,https://www.draw.io,"", label3

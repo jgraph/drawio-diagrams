@@ -1,0 +1,29 @@
+## **********************************************************
+## Example description
+## **********************************************************
+## This example shows how you can use styles for shapes. There are three styles configured in the "styles" array: the first two are static styles, while "style3" uses the fill and stroke columns as parameters for fillColor and strokeColor. This shows how you can use a single style with varying parameters (see Cell C and Cell D). All these principles work the same for connectors.
+## **********************************************************
+## Configuration
+## **********************************************************
+# label: %name%<br>%styletype%
+# styles: {"style1" : "fillColor=#FFE6CC;strokeColor=#D79B00;rounded=0;html=1;", "style2" : "fillColor=#DAE8FC;strokeColor=#6C8EBF;rounded=1;html=1;", "style3" : "fillColor=%fill%;strokeColor=%stroke%;rounded=1;html=1;"}
+# stylename: styletype
+# namespace: csvimport-
+# connect: {"from": "refs", "to": "id", "style": "curved=1;fontSize=11;"}
+# width: auto
+# height: auto
+# padding: 5
+# ignore: id,refs
+# link: url
+# nodespacing: 60
+# levelspacing: 60
+# edgespacing: 40
+# layout: auto
+## **********************************************************
+## CSV Data
+## **********************************************************
+id,name,styletype, fill, stroke, refs
+1,Cell A,style1,,,"2,3,4"
+2,Cell B,style2,,,"3,4"
+3,Cell C,style3,#D5E8D4,#82B366,""
+4,Cell D,style3,#F8CECC,#B85450,""

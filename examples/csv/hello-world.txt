@@ -1,0 +1,20 @@
+## Hello World
+# label: %step%
+# style: shape=%shape%;fillColor=%fill%;strokeColor=%stroke%;
+# namespace: csvimport-
+# connect: {"from": "refs", "to": "id", "invert": true, "style": "curved=0;endArrow=blockThin;endFill=1;"}
+# width: auto
+# height: auto
+# padding: 15
+# ignore: id,shape,fill,stroke,refs
+# nodespacing: 40
+# levelspacing: 100
+# edgespacing: 40
+# layout: auto
+## CSV data starts below this line
+id,step,fill,stroke,shape,refs
+1,Hello World,#dae8fc,#6c8ebf,rectangle,
+2,Am I alive?,#fff2cc,#d6b656,rhombus,1
+3,Yes,#d5e8d4,#82b366,ellipse,2
+4,No,#f8cecc,#b85450,ellipse,2
+5,,#fff2cc,#d6b656,mxgraph.basic.smiley,3
