@@ -1,1 +1,47 @@
-<mxfile userAgent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36" version="5.5.3.1" editor="www.draw.io" type="device"><diagram>7Vhdb+I4FP0t+4BEH0AkfLWPhZbOjna0D53V7FtlEhM8TWLGmEL318+5zjVJCKCpWHU00iAE8bF97ftx7rXT6k+z3YMRq+UnHcu0FfbiXat/1wrDcf8GvwS8FkAQBkGBJEbFjJXAo/pPMthjdKNiua4NtFqnVq3qYKTzXEa2hglj9LY+bKFTXpXlr0TiVyyBx0ikTfSLiu2yQK/DUYl/kCpZ+pWDEWs8F9FzYvQm5/VyncuiJxNeDAtfL0Wst5Vt9e9hUqM1hNJTtpvKlMzqLVbsfXaid79lI3Pe1vkJ6KIJLyLdsNatcIDv7VNrPMla4TRvjYH2XB8U78M5/QkBw+lcJgrdkxW0MmrnBtaGwA0kBpuaBiwmHIlsVXTv+8JmH6RHsbbrU1P8roZT+h5dFYqcXJX63rgqTTm/KrCX/exDuad74iMrHkw4oyW56JSW1PdGLUuPH/haIpbrnqYo4Ri2r54yVu4QdpOlzVIAAR7XKxGpPEFrWLY+ayx613Hyt0tl5SNwErFFJgGmX6RZpI4XSxXHMge2UGk61ak2AB2hIM0a/SwPQc8oEu5IKCnWqQWpVoHft6lKIPIug2zsvEEZZhENl5zNHMQUepA6k9a8Ygj3jq6LGZzpRpxgtmXWCPvMtGU1Y/QYFJypkr3kkrJ4YNYeZ3D/CINHKXlhRZJZVWDfNpRUJhHUlKZs4ynhfzdr7oFPyFUfxc7j2Me+q4JhkTq2webqSKo88gG6d75tsClL1rOvK51Q7UBjL7Ac3Zz/RZtnilukHVKNzDCnPC8N0DMSADa3FauXWvB6g1AMd9hut1ReCoO5iSdsJsixRi5qcpbWIpYhYYbvdrvtUvL/KnZdbZKqqJ4VJpFFSHj0aZ6K/Lm5YFOM1w9bOPAj+fjQCk5njx5w9xgRS/4Qlyu09nGVygUJO2SWJYJP5hSSl7MrvOa6yvQKB6PueNigWHDDtKtRLGBqXkIxznMViv0lPst/GxZEkrylcwdaUSrWaxXBCABnSF3ObqdssdYb48xe8rkSFL5Iy7h2Xmnay8hUWPVSP75cojgbuXE6+PiEkiDS1VK0d1f+dEBlYr3J8JuqTNl1UU8o86JcDO+Bq3zheI/HhRER+tud4Ap9GQ3B6D+42oX40sODyDLRRlGCZ7kQuVX3AGa7mbQoIrFdPLJwV6eoctMftjA1FBduBrbjSnrviOzfxa1Ov8GQecX0u+FwrFa3AUdtlXojtuAlAchH7Z/GPCbA+zOPs1aVeSM4xFOt3UEtpsDtkA7fjG3PEdNhZyCiKxBy1g7FFSb8DmEO4XG9ggzGbN9q+RiOmzE85HmXuNJfZyu+/KR2UDqc/Zmnyl8N3yGaA9bw/cPZ3/wrNrhdR0rRGfPd1Gef/wTt2e7NNEZVp011ExRGReq3pv3WzbhT3Ogmbaw9QYEFszGGCq3ANaxxvqtYsgfSC4zn7EDnYzfb543ItSgx4Ax9NPZ+yQxRnkf97ebilBEEXL72KYNFVMtej+tTNWWM336n+wcXmL/nX+kdVthLxRzv0dzUqZHCwkVwKb3lWhUyevDbczGArhhYpnLHiI3YdpV2K802hgQVg8IhDRvSQPx8ddeubqLscjN34wHSXKU7sRLozWgKXRgqDbp5dHcIDLeNfXQ7XtUjvxlQBw4648qFzq2PCLyE6OFzD+EOf2S5g/0F5kInj7pc4tnNwzFzteLmmyOFYcBJ/Q1eRrPi6LOOB17IRgKT2QrpiIn6w66PitB5B++7CvlLeh9F4ge8H/ja9f+7H1D5ptcNr7xJ799/Bw==</diagram></mxfile>
+<mxfile host="test.draw.io" modified="2020-04-20T07:27:29.004Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" version="@DRAWIO-VERSION@" etag="oQ3ez4HB7IeMZTdy2o5f" type="github">
+  <diagram id="0" name="Page-1">
+    <mxGraphModel dx="1139" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="$$A_{m,n} =&#xa; \begin{pmatrix}&#xa;  a_{1,1} &amp; a_{1,2} &amp; \cdots &amp; a_{1,n} \\&#xa;  a_{2,1} &amp; a_{2,2} &amp; \cdots &amp; a_{2,n} \\&#xa;  \vdots  &amp; \vdots  &amp; \ddots &amp; \vdots  \\&#xa;  a_{m,1} &amp; a_{m,2} &amp; \cdots &amp; a_{m,n}&#xa; \end{pmatrix}$$" style="text;html=1;spacing=5;spacingTop=-10;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;shadow=0;rounded=0;verticalAlign=middle" parent="1" vertex="1">
+          <mxGeometry x="68" y="60" width="232" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="&lt;p align=&quot;center&quot;&gt;&lt;b&gt;MathJax&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;High-quality typography&lt;/li&gt;&lt;li&gt;Works in all browsers&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://www.mathjax.org&quot; target=&quot;_blank&quot;&gt;www.mathjax.org&lt;/a&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;rounded=1;html=1;align=left;verticalAlign=top;blue" parent="1" vertex="1">
+          <mxGeometry x="289" y="246.75" width="190" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="LaTeX" style="endArrow=classic;endFill=1" parent="1" source="3" target="2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="$$J_\alpha(x) = \sum\limits_{m=0}^\infty \frac{(-1)^m}{m! \, \Gamma(m + \alpha + 1)}{\left({\frac{x}{2}}\right)}^{2 m + \alpha}$$" style="text;html=1;spacing=5;spacingTop=-10;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;shadow=0;rounded=0;verticalAlign=middle" parent="1" vertex="1">
+          <mxGeometry x="440" y="92" width="260" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="LaTeX" style="endArrow=classic;endFill=1" parent="1" source="3" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="`x = (-b +- sqrt(b^2-4ac))/(2a)`" style="text;html=1;spacing=5;spacingTop=-10;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;shadow=0;rounded=0;verticalAlign=middle" parent="1" vertex="1">
+          <mxGeometry x="479" y="478" width="157" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Mixed/Inline" style="endArrow=classic;endFill=1" parent="1" source="3" target="17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="AsciiMath" style="endArrow=classic;endFill=1" parent="1" source="3" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="LaTeX \(\sqrt{3×-1}+(1+x)^2\) and&lt;br&gt;AsciiMath `a^b + b^2 = c^2` inline" style="text;html=1;spacing=5;spacingTop=-10;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;shadow=0;rounded=0;verticalAlign=middle;align=center" parent="1" vertex="1">
+          <mxGeometry x="114" y="471" width="206" height="72" as="geometry" />
+        </mxCell>
+        <UserObject label="Create a copy" link="https://www.draw.io/?url=https%3A%2F%2Fjgraph.github.io%2Fdrawio-diagrams%2Fdiagrams%2Fmath.xml" id="18">
+          <mxCell style="text;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" parent="1" vertex="1">
+            <mxGeometry x="116.5" y="577" width="97" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Use as template" link="https://www.draw.io/?create=https%3A%2F%2Fjgraph.github.io%2Fdrawio-diagrams%2Fdiagrams%2Fmath.xml" id="19">
+          <mxCell style="text;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" parent="1" vertex="1">
+            <mxGeometry x="223.5" y="577" width="111" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
