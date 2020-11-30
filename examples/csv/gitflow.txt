@@ -1,7 +1,7 @@
 ## Gitflow 
 # label: %version%
 # namespace: csvimport-
-# connect: {"from":"branched", "to":"id", "style": "rounded=1;dashed=1;endArrow=none;endFill=0;startArrow=none;edgeStyle=elbowEdgeStyle;"}
+# connect: {"from":"branched", "to":"entry", "style": "rounded=1;dashed=1;endArrow=none;endFill=0;startArrow=none;edgeStyle=elbowEdgeStyle;"}
 #  
 ## Shapes and their styles
 # stylename: branch
@@ -20,7 +20,7 @@
 # spacing: 10
 # layout: horizontalflow
 ## CSV data starts below this line
-id,version,branch,feature,branched
+entry,version,branch,feature,branched
 1,1.0,Master,,2
 2,1.0.1,Nightly,,"3,4,6"
 3,A.1,FeatureTeam2,export,"8,12"
