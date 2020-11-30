@@ -1,7 +1,7 @@
 ## Topology
 # label: %host%
 # namespace: csvimport-
-# connect: {"from":"connected", "to":"id", "style": "rounded=0;endArrow=none;endFill=0;startArrow=none;startFill=0;jumpStyle=sharp;"}
+# connect: {"from":"connected", "to":"entry", "style": "rounded=0;endArrow=none;endFill=0;startArrow=none;startFill=0;jumpStyle=sharp;"}
 #  
 ## Shapes and their styles
 # stylename: type
@@ -9,13 +9,13 @@
 # "node": "fontColor=#232F3E;gradientColor=#505863;fillColor=#1E262E;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.general;",\
 # "firewall": "fontColor=#232F3E;fillColor=#232F3E;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws4.generic_firewall;perimeter=none;strokeColor=#232F3E;aspect=fixed;whiteSpace=wrap;",\
 # "database": "fontColor=#232F3E;fillColor=#232F3E;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws4.generic_database;perimeter=none;strokeColor=#232F3E;labelPosition=center;horizontal=1;aspect=fixed;whiteSpace=wrap;"}
-# ignore: id,zone,type,connected
+# ignore: entry,zone,type,connected
 # nodespacing: 40
 # levelspacing: 30
 # edgespacing: 30
 # layout: verticalflow
 ## CSV data starts below this line
-id,zone,type,host,connected
+entry,zone,type,host,connected
 1,Internet,server,J2EE application server,3
 2,Extranet frontend,node,Node (extranet),4
 3,DMZ,firewall,Firewall 1,"5,6"
