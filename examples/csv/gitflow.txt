@@ -13,7 +13,7 @@
 # "Release": "shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;",\
 # "ReleaseFixes": "shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;",\
 # "HotFix": "rhombus;whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;"}
-# ignore: id,branch,feature,connected
+# ignore: entry,branch,feature,connected
 # nodespacing: 20
 # levelspacing: 30
 # edgespacing: 20
