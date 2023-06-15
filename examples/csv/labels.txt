@@ -5,11 +5,11 @@
 ## **********************************************************
 ## Configuration
 ## **********************************************************
-# labels: {"label1" : "%name%<br><i style=\u0022color:gray;\u0022>%position%</i><br><a href=\u0022mailto:%email%\u0022>Email</a>", "label2" : "Type2<br>%name%", "label3" : "Type3"}
+# labels: {"label1" : "%name%<br><i style=color:gray;>%position%</i><br><a mailto:%email%>Email</a>", "label2" : "Type2<br>%name%", "label3" : "Type3"}
 # labelname: labeltype
-# style: whiteSpace=wrap;html=1;rounded=1;fillColor=#ffffff;strokeColor=#000000;
+# style:whiteSpace=wrap;html=1;rounded=1;fillColor=#ffffff;strokeColor=#000000;
 # namespace: csvimport-
-# connect: {"from": "refs", "to": "id", "style": "curved=1;fontSize=11;"}
+# connect: {"from": "refs", "to": "id", "style": "curved=1; fontSize=11;"}
 # width: auto
 # height: auto
 # padding: 5
@@ -23,9 +23,9 @@
 ## CSV Data
 ## **********************************************************
 id,name,position,email,url,refs, labeltype
-1,Evan Miller,CFO,me@example.com,https://www.draw.io,"2,3,4,5,6", label1
-2,Edward Morrison,Brand Manager,me@example.com,https://www.draw.io,"", label1
-3,Ron Donovan,System Admin,me@example.com,https://www.draw.io,"", label1
-4,Tessa Valet,HR Director,me@example.com,https://www.draw.io,"", label1
-5,Hanna Emerson,PR,me@example.com,https://www.draw.io,"", label2
-6,Richard Newman,PR,me@example.com,https://www.draw.io,"", label3
+1,Evan Miller,CFO,me@example.com,https://www.draw.io,"2,3,4,5,6",label1
+2,Edward Morrison,Brand Manager,me@example.com,https://www.draw.io,"",label1
+3,Ron Donovan,System Admin,me@example.com,https://www.draw.io,"",label1
+4,Tessa Valet,HR Director,me@example.com,https://www.draw.io,"",label1
+5,Hanna Emerson,PR,me@example.com,https://www.draw.io,"",label2
+6,Richard Newman,PR,me@example.com,https://www.draw.io,"",label3
