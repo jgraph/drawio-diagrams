@@ -3,18 +3,7 @@
 <clibs name="freehand">
   <add>Uhttps://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/freehand-rockpool-shapes.xml</add>
 </clibs>
-<template section="Infographics" url="https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/infographic-rockpool.drawio" preview="https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/infographic-rockpool.png" title="rockpoolInfographic" libs="infographic" clibs="freehand" tags="infographic;freehand"/>
-<template url="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/templates/basic/classes.xml" title="classDiagram" libs="general;uml" tags="classDiagram;Classes"/>
-<template url="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/templates/basic/flowchart.xml" title="flowchart" libs="general;flowchart" tags="flowchart;Flowchart"/>
-<template url="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/templates/basic/orgchart.xml" title="orgChart" libs="general;basic;arrows" tags="orgChart;Orgchart"/>
-<template url="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/templates/basic/swimlanes.xml" title="swimlaneDiagram" libs="general;flowchart;bpmn" tags="swimlaneDiagram;Swimlanes"/>
-<template url="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/templates/basic/erd.xml" title="entityRelationshipDiagram" libs="general;er" tags="entityRelationshipDiagram;Erd"/>
-<template url="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/templates/basic/sequence.xml" title="Sequence Diagram" tags="Sequence;Diagram;Sequence"/>
-<template url="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/templates/basic/kanban.xml" title="Simple Kanban Board" tags="Simple;Kanban;Board;Kanban"/>
-<template url="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/templates/basic/cross.xml" title="Cross-Functional Flowchart" tags="Cross-Functional;Flowchart;Cross"/>
-<template url="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/templates/other/infographic_1.xml" name="Infographic 1" libs="general;mockups;signs" tags="Infographic"/>
-<template url="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/templates/other/infographic_2.xml" name="Infographic 2" libs="general;mockups;signs" tags="Infographic"/>
-<template url="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/templates/other/infographic_3.xml" name="Infographic 3" libs="general;mockups;signs" tags="Infographic"/>
-<template url="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/templates/other/infographic_4.xml" name="Infographic 4" libs="general;mockups;signs" tags="Infographic"/>
-<template url="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/templates/other/lan_plan.xml" name="Lan plan" libs="general;floorplan" tags="Lan;plan"/>
+<template section="Infographics" url="https%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Finfographic-rockpool.drawio" preview="https%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Finfographic-rockpool.png" title="rockpoolInfographic" libs="infographic" clibs="freehand" tags="infographic;freehand"/>
+<template section="Basic" url="https%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio%2Fdev%2Fsrc%2Fmain%2Fwebapp%2Ftemplates%2Fbasic%2Fclasses.xml" title="classDiagram" libs="general;uml" tags="classDiagram;Classes"/>
+<template section="Basic" url="https%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio%2Fdev%2Fsrc%2Fmain%2Fwebapp%2Ftemplates%2Fbasic%2Fflowchart.xml" title="flowchart" libs="general;flowchart" tags="flowchart;Flowchart"/>
 </templates>
