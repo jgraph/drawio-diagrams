@@ -3,7 +3,7 @@
 <clibs name="freehand">
   <add>Uhttps://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/freehand-rockpool-shapes.xml</add>
 </clibs>
-<template section="Infographics" url="https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/infographic-rockpool.drawio" preview="https://drive.google.com/file/d/1hPW7Xq6i42d64XUxrwPicQhmZ7tfXv0V/view?usp=sharing" title="rockpoolInfographic" libs="infographic" clibs="freehand" tags="infographic;freehand"/>
+<template section="Infographics" url="https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/infographic-rockpool.drawio" preview="https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/infographic-rockpool.png" title="rockpoolInfographic" libs="infographic" clibs="freehand" tags="infographic;freehand"/>
 <template url="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/templates/basic/classes.xml" title="classDiagram" libs="general;uml" tags="classDiagram;Classes"/>
 <template url="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/templates/basic/flowchart.xml" title="flowchart" libs="general;flowchart" tags="flowchart;Flowchart"/>
 <template url="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/templates/basic/orgchart.xml" title="orgChart" libs="general;basic;arrows" tags="orgChart;Orgchart"/>
