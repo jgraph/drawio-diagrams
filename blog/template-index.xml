@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<templates>
+<clibs name="freehand">
+  <add>Uhttps://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/freehand-rockpool-shapes.xml</add>
+</clibs>
+<template section="Infographics" url="https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/infographic-rockpool.drawio" preview="https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/infographic-rockpool.png" title="rockpoolInfographic" libs="infographic" clibs="freehand" tags="infographic;freehand"/>
+<template section="Basic" url="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/templates/basic/classes.xml" preview="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/templates/basic/classes.png" title="classDiagram" libs="general;uml" tags="classDiagram;Classes"/>
+<template section="Basic" url="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/templates/basic/flowchart.xml" preview="https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/templates/basic/flowchart.png" title="flowchart" libs="general;flowchart" tags="flowchart;Flowchart"/>
+</templates>
