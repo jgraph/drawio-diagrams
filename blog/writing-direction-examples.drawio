@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2024-03-14T17:38:47.345Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15" etag="O1A591Pkrf5bv31q-_TP" version="24.0.6" type="device">
+  <diagram id="jwyYaOj4ZGOG1R3Olgyf" name="Page-1">
+    <mxGraphModel dx="1337" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H2xVyXEW8KEQ8lseeLBb-1" value="&lt;h1&gt;Left to Right&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=13;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;textDirection=ltr;spacingLeft=4;spacingBottom=4;spacingRight=4;" parent="1" vertex="1">
+          <mxGeometry x="40" y="100" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="H2xVyXEW8KEQ8lseeLBb-2" value="&lt;h1&gt;Right to Left&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=13;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;textDirection=rtl;spacingLeft=4;spacingBottom=4;spacingRight=4;" parent="1" vertex="1">
+          <mxGeometry x="280" y="100" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="H2xVyXEW8KEQ8lseeLBb-3" value="&lt;p&gt;&lt;font size=&quot;5&quot;&gt;&lt;b&gt;Vertical - Left to Right&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=13;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;textDirection=vertical-lr;spacingLeft=4;spacingBottom=4;spacingRight=4;" parent="1" vertex="1">
+          <mxGeometry x="40" y="290" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="H2xVyXEW8KEQ8lseeLBb-4" value="&lt;h1&gt;Vertical - Right to Left&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=13;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;textDirection=vertical-rl;spacingLeft=4;spacingBottom=4;spacingRight=4;" parent="1" vertex="1">
+          <mxGeometry x="280" y="290" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="H2xVyXEW8KEQ8lseeLBb-5" value="&lt;h1&gt;Left to Right&lt;/h1&gt;&lt;p&gt;五月のしまいの日曜でした。わたくしは賑にぎやかな市の教会の鐘の音で眼をさましました。もう日はよほど登って、まわりはみんなきらきらしていました。時計を見るとちょうど六時でした。&lt;/p&gt;" style="text;html=1;spacing=13;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;textDirection=ltr;spacingLeft=4;spacingBottom=4;spacingRight=4;" parent="1" vertex="1">
+          <mxGeometry x="560" y="100" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="H2xVyXEW8KEQ8lseeLBb-6" value="&lt;h1&gt;Right to Left&lt;/h1&gt;&lt;p&gt;五月のしまいの日曜でした。わたくしは賑にぎやかな市の教会の鐘の音で眼をさましました。もう日はよほど登って、まわりはみんなきらきらしていました。時計を見るとちょうど六時でした。&lt;/p&gt;" style="text;html=1;spacing=13;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;textDirection=rtl;spacingLeft=4;spacingBottom=4;spacingRight=4;" parent="1" vertex="1">
+          <mxGeometry x="800" y="100" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="H2xVyXEW8KEQ8lseeLBb-7" value="&lt;h1&gt;Vertical - Left to Right&lt;/h1&gt;&lt;p&gt;五月のしまいの日曜でした。わたくしは賑にぎやかな市の教会の鐘の音で眼をさましました。もう日はよほど登って、まわりはみんなきらきらしていました。時計を見るとちょうど六時でした。&lt;/p&gt;" style="text;html=1;spacing=13;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;textDirection=vertical-lr;spacingLeft=4;spacingBottom=4;spacingRight=4;" parent="1" vertex="1">
+          <mxGeometry x="560" y="300" width="190" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="H2xVyXEW8KEQ8lseeLBb-8" value="&lt;h1&gt;Vertical - Right to Left&lt;/h1&gt;&lt;p&gt;五月のしまいの日曜でした。わたくしは賑にぎやかな市の教会の鐘の音で眼をさましました。もう日はよほど登って、まわりはみんなきらきらしていました。時計を見るとちょうど六時でした。&lt;/p&gt;" style="text;html=1;spacing=13;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;textDirection=vertical-rl;spacingLeft=4;spacingBottom=4;spacingRight=4;" parent="1" vertex="1">
+          <mxGeometry x="800" y="300" width="190" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="H2xVyXEW8KEQ8lseeLBb-9" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="520" as="sourcePoint" />
+            <mxPoint x="520" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H2xVyXEW8KEQ8lseeLBb-10" value="&lt;h1&gt;Left to Right&lt;/h1&gt;&lt;p&gt;لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة حول استنكار &amp;nbsp;النشوة وتمجيد الألم نشأت بالفعل، وسأعرض لك التفاصيل لتكتشف حقيقة وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا بد أن نستشعرها بصورة أكثر عقلانية ومنطقية فيعرضهم هذا لمواجهة الظروف الأليمة، وأكرر بأنه لا يوجد من يرغب في الحب ونيل المنال ويتلذذ بالآلام، الألم هو الألم ولكن نتيجة لظروف ما قد تكمن السعاده فيما نتحمله من كد وأسي. &lt;a href=&quot;mailto:example@me.com&quot;&gt;example@me.com&lt;/a&gt;&amp;nbsp; و سأعرض مثال حي لهذا، من منا لم يتحمل جهد بدني شاق إلا من أجل الحصول على ميزة أو فائدة؟ ولكن من لديه الحق أن ينتقد شخص ما أراد أن يشعر بالسعادة التي لا تشوبها عواقب أليمة أو آخر أراد أن يتجنب الألم الذي ربما تنجم عنه بعض المتعة ؟&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;textDirection=ltr;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="107" width="190" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="dn7leYRlmFD2sFU8S3iI-3" value="&lt;h1&gt;Right to Left&lt;/h1&gt;&lt;p&gt;لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة حول استنكار &amp;nbsp;النشوة وتمجيد الألم نشأت بالفعل، وسأعرض لك التفاصيل لتكتشف حقيقة وأساس تلك السعادة البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين لا يدركون بأن السعادة لا بد أن نستشعرها بصورة أكثر عقلانية ومنطقية فيعرضهم هذا لمواجهة الظروف الأليمة، وأكرر بأنه لا يوجد من يرغب في الحب ونيل المنال ويتلذذ بالآلام، الألم هو الألم ولكن نتيجة لظروف ما قد تكمن السعاده فيما نتحمله من كد وأسي. &lt;a href=&quot;mailto:example@me.com&quot;&gt;example@me.com&lt;/a&gt;&amp;nbsp; و سأعرض مثال حي لهذا، من منا لم يتحمل جهد بدني شاق إلا من أجل الحصول على ميزة أو فائدة؟ ولكن من لديه الحق أن ينتقد شخص ما أراد أن يشعر بالسعادة التي لا تشوبها عواقب أليمة أو آخر أراد أن يتجنب الألم الذي ربما تنجم عنه بعض المتعة ؟&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;textDirection=rtl;" vertex="1" parent="1">
+          <mxGeometry x="1345" y="107" width="190" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="UvX1_a3kBG1uNZsn9o0U-1" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="530" as="sourcePoint" />
+            <mxPoint x="1040" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
